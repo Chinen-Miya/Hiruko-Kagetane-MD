@@ -23,8 +23,8 @@ global.prefa = ['','.','/','#']
 
 //===> UBAH DISINI
 global.namaowner = 'Ryuuka Team' //Ganti Jadi Namamu
-global.owner = ['6285609233482','6283891921787'] //Kalo Mau Lebih Tambahin Aja
-global.nomerowner = '6285609233482' //Owner Utama Istilahnya
+global.owner = ['6285888083107','6283891921787'] //Kalo Mau Lebih Tambahin Aja
+global.nomerowner = '6285888083107' //Owner Utama Istilahnya
 global.namabot = 'Hiruko Kagetane' //Ganti Jadi Nama Botmu
 global.packname = 'Hiruko Kagetane' //Sticker Weem
 global.author = 'By Ryuuka Team' //Sticker Weem
